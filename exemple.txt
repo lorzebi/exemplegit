@@ -1,3 +1,5 @@
 Ceci est un premier message
 
 Ceci est un deuxième message
+
+Ceci est un troisième message : il n'existera d'abord que sur newtextgit 
