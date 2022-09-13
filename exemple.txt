@@ -26,3 +26,4 @@ git checkout [-b] <branche> ===> l'option -b permet de créer une nouvelle branc
 git rm --cached <fichier> Pour supprimer un fichier de l'historique de suivi de Git
 git ls-files ===> affiche la liste des fichiers suivis par Git
 git clone <URL du dépôt> [<nom du dossier oû cloner>]
+weeesh bien
