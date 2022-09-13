@@ -7,7 +7,7 @@ Ceci est un troisième message : il n'existera d'abord que sur newtextgit
 
 Ceci c'est le 6 eme c'est juste pour mtnt
 
-git init ===> permet d'initialiser un depôt local git à l'endroitou l'on se situe (dans le terminal)
+git init ===> permet d'initialiser un depôt local git à l'endroit ou l'on se situe (dans le terminal)
 pour configurer son dépôt local Git : 1) git config user.name <username> 2) git config user.email <email>
 git status (réflexe principal en cas de doute),
 git add <fichier> (git add .)
