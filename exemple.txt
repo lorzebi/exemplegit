@@ -6,3 +6,23 @@ Ceci est un troisième message : il n'existera d'abord que sur newtextgit mais o
 Ceci est un troisième message : il n'existera d'abord que sur newtextgit 
 
 Ceci c'est le 6 eme c'est juste pour mtnt
+
+git init ===> permet d'initialiser un depôt local git à l'endroitou l'on se situe (dans le terminal)
+pour configurer son dépôt local Git : 1) git config user.name <username> 2) git config user.email <email>
+git status (réflexe principal en cas de doute),
+git add <fichier> (git add .)
+git commit -m <message explicatif> (git commit --amend -m <message> changer le msg) 
+git push [-u <alias URl> <branche>]
+git log, git show
+git reset [--soft] [--hard] <commit>
+git tag [-a] <version> [-f] [-m] <message> <commit>
+git remote [-v]
+git remote add
+git pull ou git fetch + git merge FETCH_HEAD
+git merge (en local dans la branche de ) 
+git fetch
+git branch <branche>
+git checkout [-b] <branche> ===> l'option -b permet de créer une nouvelle branche et de se positionner dessus
+git rm --cached <fichier> Pour supprimer un fichier de l'historique de suivi de Git
+git ls-files ===> affiche la liste des fichiers suivis par Git
+git clone <URL du dépôt> [<nom du dossier oû cloner>]
